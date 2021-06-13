@@ -17,20 +17,17 @@
 
 (1) Use Case Diagram
 
-<img src="" width= "400px" height="300px" title="Use Case Diagram" alt="Use Case Diagram">
-
+![Use Case Diagram](https://user-images.githubusercontent.com/82528589/121805279-82140980-cc85-11eb-840c-eb5b8d0c9e90.png)
 
 
 (2) Sequence Diagram
 
-<img src="" width= "400px" height="300px" title="Sequence Diagram" alt="Sequence Diagram">
+![Sequence Diagram](https://user-images.githubusercontent.com/82528589/121805281-85a79080-cc85-11eb-9673-212e45440463.png)
 
 
 
 (3) Class Diagram
-
-<img src="" width= "400px" height="300px" title="Class Diagram" alt="Class Diagram">
-
+![Class Diagram](https://user-images.githubusercontent.com/82528589/121805284-88a28100-cc85-11eb-9bc9-d7c135f34ceb.png)
 
 
 **2) 헤더 생성**
@@ -106,10 +103,12 @@
 
 - 결과 화면
 
-<img src="" width= "400px" height="300px" title="Test" alt="Test">
+![result](https://user-images.githubusercontent.com/82528589/121805299-97893380-cc85-11eb-8de2-05ca40f79ef4.png)
 
 
 
 - 출력된 이미지
 
-<img src="" width= "400px" height="300px" title="Test Image" alt="Teste Image">
+![saved Image](https://user-images.githubusercontent.com/82528589/121805331-d61eee00-cc85-11eb-89b9-d193ebd4386a.PNG)
+
+
